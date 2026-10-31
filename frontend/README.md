@@ -1,4 +1,4 @@
-# Aura Atelier: Frontend (React + Vite)
+# Frontend (React + Vite)
 
 Needs the backend running (see the `backend` project). Default API: `http://localhost:5000`.
 
