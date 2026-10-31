@@ -1,4 +1,4 @@
-# Aura Atelier: Backend (Express + Mongoose + MongoDB Atlas)
+# Backend (Express + Mongoose + MongoDB Atlas)
 
 ## Atlas setup (once)
 1. Create a free **M0** cluster. 2. **Database Access**: add a DB user. 3. **Network Access**: add your IP.
