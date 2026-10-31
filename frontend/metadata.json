@@ -1,0 +1,6 @@
+{
+  "name": "Aura Atelier | Modern MERN E-Commerce & Inventory Platform",
+  "description": "A full-stack MERN architecture online shopping system featuring curated design goods, live cart, secure checkout, customer order tracking, and real-time inventory management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
